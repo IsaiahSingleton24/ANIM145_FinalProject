@@ -1622,9 +1622,3 @@ Breadcrumbs:   AccessModePass[AsyncCompute] (Textures: 5, Buffers: 3) [Not start
 [2024.06.06-16.05.53:726][638]LogD3D12RHI: Error: Memory Info from frame ID 7657:
 [2024.06.06-16.05.53:726][638]LogD3D12RHI: Error: 	Budget:	5153.00 MB
 [2024.06.06-16.05.53:726][638]LogD3D12RHI: Error: 	Used:	9480.38 MB
-[2024.06.06-16.05.59:786][638]LogWindows: FPlatformMisc::RequestExit(0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2024.06.06-16.05.59:786][638]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, WindowsPlatformCrashContext.ReportGPUCrash)
-[2024.06.06-16.05.59:787][638]LogCore: Engine exit requested (reason: Win RequestExit)
-[2024.06.06-16.05.59:792][638]LogWindows: FPlatformMisc::RequestExit(1, D3D12Util.TerminateOnGPUCrash)
-[2024.06.06-16.05.59:792][638]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, D3D12Util.TerminateOnGPUCrash)
-[2024.06.06-16.05.59:792][638]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
